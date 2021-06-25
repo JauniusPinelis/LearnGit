@@ -1,3 +1,3 @@
 # LearnGit
  
-Modified
+This is finished updated Readme branch.
